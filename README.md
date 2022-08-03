@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guiffsouza
-- 👀 I’m interested in Front-end and Back-end
-- 🌱 I’m currently learning Back-end
+- 👀 I’m interested in Front-end, Back-end and DevOps
+- 🌱 I’m currently learning DevOps
 - 📫 How to reach me guiffsouza@gmail.com
 
 <!---
