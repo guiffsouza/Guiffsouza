@@ -4,8 +4,8 @@
 <p>I am currently studying Python. </p>
 <p>I'm passionate about technology! XD</p
 
-<h2>Would you like to find me?</h2
-- 📫 guiffsouza.dev@gmail.com
+<h1>Would you like to find me?</h1>
+<p>- 📫 guiffsouza.dev@gmail.com</p>
 <!---
 Guiffsouza/Guiffsouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
