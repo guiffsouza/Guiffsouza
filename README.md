@@ -1,6 +1,6 @@
 <h3>👋 Hello World </h3>
 
-<p>Hi, My name is Guilherme and I'm from Brazil. My first contact with code was with excel's vba, I created a love from that moment, so I started my studies of through HTML, CSS and Javascript. Today I have knowledge with NodeJs, Docker, Vagrant, ReactJs, NextJs, SQL Database and NOSQL database, Clound.</p>
+<p>Hi, My name is Guilherme and I'm from Brazil. My first contact with code was with excel's vba, I created a love from that moment, so i started my studies through HTML, CSS and Javascript. Today I have knowledge with NodeJs, Docker, Vagrant, ReactJs, NextJs, SQL Database and NOSQL database, Clound.</p>
 <p>I am currently studying Python. </p>
 <p>I'm passionate about technology! XD</p
 
