@@ -8,6 +8,9 @@
 <h3> <strong> Would you like to find me? </strong> </h3>
 <p>- 📫 guiffsouza.dev@gmail.com</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiffsouza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 Guiffsouza/Guiffsouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
