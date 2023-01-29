@@ -8,7 +8,11 @@
 <h3> <strong> Would you like to find me? </strong> </h3>
 <p>- 📫 guiffsouza.dev@gmail.com</p>
 
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiffsouza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiffsouza&layout=compact&theme=tokyonight)
 
 
 <!---
