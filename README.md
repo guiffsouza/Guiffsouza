@@ -2,7 +2,6 @@
 
 <p>Hi, 👋 </p>
 <p>My name is Guilherme and I'm from Brazil. My first contact with code was with excel's vba, I created a love from that moment, so i started my studies through HTML, CSS and Javascript. Today I have knowledge with NodeJs, Docker, Vagrant, ReactJs, NextJs, SQL Database and NOSQL database, Cloud.</p>
-<p>I am currently studying Python. </p>
 <p>I'm passionate about technology! XD</p
 
 <h3> <strong> Would you like to find me? </strong> </h3>
