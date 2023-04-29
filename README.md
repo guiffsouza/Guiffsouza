@@ -27,7 +27,8 @@ You can click the Preview link to take a look at your changes.
 <h3> 🛠 &nbsp;Stack</h3>
 
 - 💻&nbsp;Linguagens:&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Javascript-0A1A2F?style=flat&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/-Javascript-0A1A2F?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-0A1A2F?style=flat&logo=typescript)
   ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
 - 🗄 &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
