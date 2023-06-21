@@ -49,7 +49,9 @@ You can click the Preview link to take a look at your changes.
 - ⚙️ &nbsp;VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
+<!---
 - 🖥 &nbsp;Design:&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=photoshop)
   ![Ilustrator](https://img.shields.io/badge/-Ilustrator-0A1A2F?style=flat&logo=ilustrator)
+--->
