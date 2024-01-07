@@ -1,66 +1,62 @@
-<h3>👋 Hello World </h3>
-
-<p>Hi, 👋 </p>
-<p>My name is Guilherme and I'm from Brazil and im passionate about technology!</p>
-
-<h3> <strong> Would you like to find me? </strong> </h3>
-<p>- 📫 guiffsouza.dev@gmail.com</p>
-
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiffsouza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiffsouza&layout=compact&theme=tokyonight)
-
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiffsouza&theme=react&line_height=40&hide=css"/> </a>
---->
-
-<h3>📊 &nbsp;Metrics</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiffsouza&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---
-Guiffsouza/Guiffsouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<h3> 🛠 &nbsp;Stack</h3>
-
-- 💻&nbsp;Linguagens:&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-Javascript-0A1A2F?style=flat&logo=javascript)
-  ![Typescript](https://img.shields.io/badge/-Typescript-0A1A2F?style=flat&logo=typescript)
-  ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
-- 🗄 &nbsp;Backend:&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
-  ![Django](https://img.shields.io/badge/-Django-0A1A2F?style=flat&logo=django)
-- 🌐 &nbsp;Frontend:&nbsp;
-  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
-  ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
-- 🛢 &nbsp;Database:&nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
-  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
-- 💻 &nbsp;SO: &nbsp;
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0A1A2F?style=flat&logo=ubuntu)  
-- ⚙️ &nbsp;DevOps: &nbsp;
-  ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker)
-  ![Vagrant](https://img.shields.io/badge/-Vagrant-0A1A2F?style=flat&logo=vagrant)
-- 🔧 &nbsp;IDE's:&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
-- ⚙️ &nbsp;VCS: &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
-<!---
-- 🖥 &nbsp;Design:&nbsp;
-  ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=photoshop)
-  ![Ilustrator](https://img.shields.io/badge/-Ilustrator-0A1A2F?style=flat&logo=ilustrator)
-
-
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{guiffsouza}/count.svg" /></p> 
-<br>
+<div align="center">
+  <h1>👋 Hello World. I'm Guilherme Freitas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
---->
 
+<p align='center'>
+   <a href="https://www.linkedin.com/in/guilherme-freitas-181335189/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+ </p>
+ 
+<div align="center">
+  <h3>Guilherme Freitas | 💻 Software Engineer | Brazil </h3>
+</div>
 
+<div align="center">
+  <h3> About me: </h3>
+  <p> I was born in 1995, graduated in Computer Science. I'm currently working with fullstack applications for Web. </p>
+</div>
+
+<div align="center">
+  <h3> Skils and tools: </h3>
+  <h4> Stack for Dev: </h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,cpp,html,css,git,github,redis,mysql,mongodb" />
+  </a>
+
+  <h4> Stack for DevOps: </h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,aws,googlecloud,linux,docker" />
+  </a>
+
+  <h4> Frameworks: </h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nest,next,django,flask" />
+  </a>
+
+  <h4>Tools: </h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,vscode" />
+  </a>
+</div>
+
+<div align="center">
+  <h3> More infos about my github: </h3>
+  <picture>
+  <source width="400px" height="200px"
+    srcset="https://github-readme-stats.vercel.app/api?username=guiffsouza&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+         
+  <img src="https://github-readme-stats.vercel.app/api?username=guiffsouza&show_icons=true" />
+  </picture>
+
+  <picture>
+  <source width="355px" height="200px"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guiffsouza&&theme=tokyonight&hide_progress=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=guiffsouza&show_icons=true" />
+  </picture>
+
+  <h3> How to reach me: </h3>
+  You can contact me via 📧 guiffsouza.dev@gmail.com
+</div>
