@@ -19,7 +19,7 @@
   <h3> Skils and tools: </h3>
   <h4> Stack for Dev: </h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,cpp,html,css,git,github,redis,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,html,css,git,github,redis,mysql,mongodb" />
   </a>
 
   <h4> Stack for DevOps: </h4>
