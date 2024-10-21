@@ -12,7 +12,7 @@
 
 <div align="left">
   <h3> About me: </h3>
-  <p> I was born in 1995, graduated in Computer Science. I'm currently working with fullstack applications for Web. </p>
+  <p> Born in 1995, the same year JavaScript was created haha, I have a degree in Computer Science and work as a fullstack developer. My passion for technology started early, and in 2018 I started my professional journey in the IT area. Since then, I have been improving my skills and exploring new technologies.</p>
 </div>
 
  <h3> How to reach me: </h3>
