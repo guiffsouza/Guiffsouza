@@ -21,7 +21,7 @@
 <div align="left">
  <h4> Stack for Dev: </h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,python,cs," />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,python,cs" />
   </a>
 
   <h4> Stack for DevOps: </h4>
